@@ -1,0 +1,15 @@
+E:\Data\visual_studio\C#\TESTATTRIBUTE\obj\Debug\net7.0\TESTATTRIBUTE.csproj.AssemblyReference.cache
+E:\Data\visual_studio\C#\TESTATTRIBUTE\obj\Debug\net7.0\TESTATTRIBUTE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data\visual_studio\C#\TESTATTRIBUTE\obj\Debug\net7.0\TESTATTRIBUTE.AssemblyInfoInputs.cache
+E:\Data\visual_studio\C#\TESTATTRIBUTE\obj\Debug\net7.0\TESTATTRIBUTE.AssemblyInfo.cs
+E:\Data\visual_studio\C#\TESTATTRIBUTE\obj\Debug\net7.0\TESTATTRIBUTE.csproj.CoreCompileInputs.cache
+E:\Data\visual_studio\C#\TESTATTRIBUTE\bin\Debug\net7.0\TESTATTRIBUTE.exe
+E:\Data\visual_studio\C#\TESTATTRIBUTE\bin\Debug\net7.0\TESTATTRIBUTE.deps.json
+E:\Data\visual_studio\C#\TESTATTRIBUTE\bin\Debug\net7.0\TESTATTRIBUTE.runtimeconfig.json
+E:\Data\visual_studio\C#\TESTATTRIBUTE\bin\Debug\net7.0\TESTATTRIBUTE.dll
+E:\Data\visual_studio\C#\TESTATTRIBUTE\bin\Debug\net7.0\TESTATTRIBUTE.pdb
+E:\Data\visual_studio\C#\TESTATTRIBUTE\obj\Debug\net7.0\TESTATTRIBUTE.dll
+E:\Data\visual_studio\C#\TESTATTRIBUTE\obj\Debug\net7.0\refint\TESTATTRIBUTE.dll
+E:\Data\visual_studio\C#\TESTATTRIBUTE\obj\Debug\net7.0\TESTATTRIBUTE.pdb
+E:\Data\visual_studio\C#\TESTATTRIBUTE\obj\Debug\net7.0\TESTATTRIBUTE.genruntimeconfig.cache
+E:\Data\visual_studio\C#\TESTATTRIBUTE\obj\Debug\net7.0\ref\TESTATTRIBUTE.dll
